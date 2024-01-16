@@ -85,3 +85,18 @@ OPAMP can act as
   Summing Amp with V1 = V2 = 900mV, Rf/R1 = 10
 
   ![summingamp_tb](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/summming_amp_tb.png)
+
+- Comparator
+  
+ ![comparator](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/comparator.png)
+
+##
+- 2:1 mux
+- 4:1 mux
+- Transmission gate
+- 3 to 8 Decoder
+- 8 to 3 encoder
+- 3 bit binary to thermometer decoder
+- DFF
+- XOR and XNOR
+- 3-bit counter
