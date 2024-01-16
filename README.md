@@ -12,28 +12,29 @@ This Repo contains Full-Custom Designs for various DACs. Design and Simulation d
 Digital-to-Analog Converters (DACs) are fundamental components in electronic systems, responsible for converting digital signals into analog signals. This repository showcases full-custom designs implemented using Cadence Virtuoso.
 
 ## Designs
-All the design starts with a basic block - Two Stage OPAMP
+### All the design starts with a basic block - Two Stage OPAMP
 
-![amp](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/picture.png)
+![amp](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/Picture.png)
 
 ![2stageopamp](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/opamp.png)
 
+### Inverter
 
+![inverter](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/inverter.png)
 
-- **[DAC Model 1](./designs/DAC_model_1):** Description of the first DAC model, including design specifications and considerations.
+### Logic gates
+2 Input Nand Gate 
 
-- **[DAC Model 2](./designs/DAC_model_2):** Details about the second DAC model, its architecture, and design choices.
+![2innand](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/2_in_nand.png)
 
-- ...
+2 Input Nor Gate 
 
-Feel free to explore each design directory for more information.
+![2innor](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/2_in_nor.png)
 
-## Simulation
+2 Input and Gate 
 
-Simulation plays a crucial role in validating the functionality and performance of the DAC designs. In this repository, you can find simulation results and analysis for each DAC model.
+![2inand](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/2_in_and.png)
 
-- **[Simulation of DAC Model 1](./simulation/DAC_model_1):** Results and insights obtained from simulating the first DAC model.
+2 Input or Gate 
 
-- **[Simulation of DAC Model 2](./simulation/DAC_model_2):** Simulation data and observations for the second DAC model.
-
-- ...
+![2inor](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/2_in_or.png)
