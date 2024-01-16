@@ -5,7 +5,7 @@ This Repo contains Full-Custom Designs for various DACs. Design and Simulation d
 
 - [Introduction](#introduction)
 - [Designs](#designs)
-- [Simulation](#simulation)
+- [Opamp Applications](#opamp-applications)
 
 ## Introduction
 
@@ -53,6 +53,7 @@ The Schematic is given as -
 ## OPAMP Applications
 OPAMP can act as 
 - Buffer (Non-Inverting Unity Gain OPAMP)
+
   ![buffer_sch](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/buffer_sch.png)
  
   ![buffer](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/buffer.png)
