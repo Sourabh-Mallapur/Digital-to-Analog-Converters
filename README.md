@@ -84,7 +84,7 @@ OPAMP can act as
 
   Summing Amp with V1 = V2 = 900mV, Rf/R1 = 10
 
-  ![summingamp_tb](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/summing_amp_tb.png)
+  ![summingamp_tb](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/sum-ming_amp_tb.png)
 
 - Comparator
   
