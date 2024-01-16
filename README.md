@@ -51,3 +51,15 @@ The Schematic is given as -
 ![3inor](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/3_in_or.png)
 
 ## OPAMP Applications
+OPAMP can act as 
+- Buffer (Non-Inverting Unity Gain OPAMP)
+  ![buffer_sch](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/buffer_sch.png)
+ 
+  ![buffer](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/buffer.png)
+ 
+  ![buffer_tb](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/buffer_tb.png)
+ 
+  
+- Inverting Amplifier
+- Non-Inverting Amplifier
+- Summing Amplifier
