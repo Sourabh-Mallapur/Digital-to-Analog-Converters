@@ -57,6 +57,7 @@ OPAMP can act as
   ![buffer_sch](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/buffer_sch.png)
 
   Buffer with Vin = 900mV +50mV/-50mV
+  
   ![buffer](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/buffer.png)
  
   ![buffer_tb](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/buffer_tb.png)
@@ -65,12 +66,14 @@ OPAMP can act as
 
   ![non_inv_amp_sch](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/non_inverting_amp_sch.png)
 
-  Buffer with Vin = 900mV +50mV/-50mV, Rf = 10k, R1 = 1k
+  Non-inverting Amp with Vin = 900mV +50mV/-50mV, Rf = 10k, R1 = 1k
+
   ![non_inverting_amp](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/non_inverting_amp.png)
  
   ![non_Inverting_amp_tb](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/non_inverting_amp_tb.png)
  
 - Inverting Amplifier
+
   Inverting Amplifiers are the same except Vin+ and Vin- are switched, as the Figure below shows
 
   ![inverting_amp](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/inverting_amp_sch.png)
