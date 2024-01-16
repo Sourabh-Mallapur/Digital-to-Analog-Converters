@@ -25,7 +25,7 @@ Digital-to-Analog Converters (DACs) are fundamental components in electronic sys
 ### Logic gates
 2 Input NAND Gate 
 
-![2innand](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/2_in_nand.png)
+![2innand](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/3_in_nand.png)
 
 2 Input NOR Gate 
 
