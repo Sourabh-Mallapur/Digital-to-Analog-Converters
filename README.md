@@ -14,6 +14,10 @@ Digital-to-Analog Converters (DACs) are fundamental components in electronic sys
 ## Designs
 All the design starts with a basic block - Two Stage OPAMP
 
+!(amp)[https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/picture.png]
+
+!(2stageopamp)[https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/opamp.png]
+
 
 
 - **[DAC Model 1](./designs/DAC_model_1):** Description of the first DAC model, including design specifications and considerations.
