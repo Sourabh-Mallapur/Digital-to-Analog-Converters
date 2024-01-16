@@ -45,4 +45,4 @@ Digital-to-Analog Converters (DACs) are fundamental components in electronic sys
 
 3 Input OR Gate 
 
-![3inor](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/2_in_or.png)
+![3inor](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/3_in_or.png)
