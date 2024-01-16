@@ -80,8 +80,8 @@ OPAMP can act as
   
 - Summing Amplifier
 
-  ![Summingamp](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/summming_amp.png)
+  ![Summingamp](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/summing_amp.png)
 
-  Non-inverting Amp with V1 = V2 = 900mV, Rf/R1 = 10
+  Summing Amp with V1 = V2 = 900mV, Rf/R1 = 10
 
-  ![summingamp_tb](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/summming_amp.png)
+  ![summingamp_tb](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/summming_amp_tb.png)
