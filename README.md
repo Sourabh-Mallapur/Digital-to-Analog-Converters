@@ -79,3 +79,9 @@ OPAMP can act as
   ![inverting_amp](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/inverting_amp_sch.png)
   
 - Summing Amplifier
+
+  ![Summingamp](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/summming_amp.png)
+
+  Non-inverting Amp with V1 = V2 = 900mV, Rf/R1 = 10
+
+  ![summingamp_tb](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/summming_amp.png)
