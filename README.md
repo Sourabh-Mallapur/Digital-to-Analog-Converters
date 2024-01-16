@@ -12,24 +12,54 @@ This Repo contains Full-Custom Designs for various DACs. Design and Simulation d
 Digital-to-Analog Converters (DACs) are fundamental components in electronic systems, responsible for converting digital signals into analog signals. This repository showcases full-custom designs implemented using Cadence Virtuoso.
 
 ## Designs
-All the design starts with a basic block - Two Stage OPAMP
+### All the design starts with a basic block - Two Stage OPAMP
+A Two Stage OPAMP consists of three parts - A differential Amplifier, Voltage Amplifier and a Output Amplifier.
 
+![amp](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/Picture.png)
 
+The Schematic is given as - 
 
-- **[DAC Model 1](./designs/DAC_model_1):** Description of the first DAC model, including design specifications and considerations.
+![2stageopamp](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/opamp.png)
 
-- **[DAC Model 2](./designs/DAC_model_2):** Details about the second DAC model, its architecture, and design choices.
+### Inverter
 
-- ...
+![inverter](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/inverter.png)
 
-Feel free to explore each design directory for more information.
+### Logic gates
+2 Input NAND Gate 
 
-## Simulation
+![2innand](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/2_in_nand.png)
 
-Simulation plays a crucial role in validating the functionality and performance of the DAC designs. In this repository, you can find simulation results and analysis for each DAC model.
+2 Input NOR Gate 
 
-- **[Simulation of DAC Model 1](./simulation/DAC_model_1):** Results and insights obtained from simulating the first DAC model.
+![2innor](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/2_in_nor.png)
 
-- **[Simulation of DAC Model 2](./simulation/DAC_model_2):** Simulation data and observations for the second DAC model.
+2 Input AND Gate 
 
-- ...
+![2inand](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/2_in_and.png)
+
+2 Input OR Gate 
+
+![2inor](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/2_in_or.png)
+
+3 Input AND Gate 
+
+![3inand](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/3_in_and.png)
+
+3 Input OR Gate 
+
+![3inor](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/3_in_or.png)
+
+## OPAMP Applications
+OPAMP can act as 
+- Buffer (Non-Inverting Unity Gain OPAMP)
+  ![buffer_sch](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/buffer_sch.png)
+ 
+  ![buffer](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/buffer.png)
+ 
+  ![buffer_tb](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/buffer_tb.png)
+ 
+  
+- Inverting Amplifier
+- Non-Inverting Amplifier
+- Summing Amplifier
