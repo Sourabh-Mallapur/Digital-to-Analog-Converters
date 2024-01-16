@@ -55,12 +55,21 @@ OPAMP can act as
 - Buffer (Non-Inverting Unity Gain OPAMP)
 
   ![buffer_sch](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/buffer_sch.png)
- 
+
+  Buffer with Vin = 900mV +50mV/-50mV
   ![buffer](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/buffer.png)
  
   ![buffer_tb](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/buffer_tb.png)
  
-  
 - Inverting Amplifier
+
+  ![inv_amp_sch](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/inverting_amp_sch.png)
+
+  Buffer with Vin = 900mV +50mV/-50mV
+  ![inverting_amp](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/inverting_amp.png)
+ 
+  ![INverting_amp_tb](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/inverting_amp_tb.png)
+ 
+  
 - Non-Inverting Amplifier
 - Summing Amplifier
