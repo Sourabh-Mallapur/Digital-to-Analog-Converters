@@ -13,8 +13,11 @@ Digital-to-Analog Converters (DACs) are fundamental components in electronic sys
 
 ## Designs
 ### All the design starts with a basic block - Two Stage OPAMP
+A Two Stage OPAMP consists of three parts - A differential Amplifier, Voltage Amplifier and a Output Amplifier.
 
 ![amp](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/Picture.png)
+
+The Schematic is given as - 
 
 ![2stageopamp](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/opamp.png)
 
@@ -46,3 +49,5 @@ Digital-to-Analog Converters (DACs) are fundamental components in electronic sys
 3 Input OR Gate 
 
 ![3inor](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/3_in_or.png)
+
+## OPAMP Applications
