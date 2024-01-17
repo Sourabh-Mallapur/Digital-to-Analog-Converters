@@ -10,7 +10,7 @@ This Repo contains Full-Custom Designs for various DACs. Design and Simulation d
 
 ## Introduction
 
-Digital-to-Analog Converters (DACs) are fundamental components in electronic systems, responsible for converting digital signals into analog signals. This repository showcases full-custom designs implemented using Cadence Virtuoso. All the designs are done using gpdk_090nm Technology 
+Digital-to-Analog Converters (DACs) are fundamental components in electronic systems, responsible for converting digital signals into analog signals. This repository showcases full-custom designs implemented using Cadence Virtuoso. All the designs are done using gpdk_90nm Technology 
 
 ## Designs
 ### The design starts with a basic block - Two Stage OPAMP
