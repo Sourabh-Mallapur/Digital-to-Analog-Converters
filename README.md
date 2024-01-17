@@ -53,7 +53,7 @@ A Two Stage OPAMP consists of three parts - A differential Amplifier, Voltage Am
 
 ## OPAMP Applications
 ### OPAMP can act as 
-- ### Buffer (Non-Inverting Unity Gain OPAMP)
+- ## Buffer (Non-Inverting Unity Gain OPAMP)
 
   ![buffer_sch](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/buffer_sch.png)
 
@@ -63,7 +63,7 @@ A Two Stage OPAMP consists of three parts - A differential Amplifier, Voltage Am
  
   ![buffer_tb](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/buffer_tb.png)
  
-- ### Non-Inverting Amplifier
+- ## Non-Inverting Amplifier
 
   ![non_inv_amp_sch](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/non_inverting_amp_sch.png)
 
@@ -73,13 +73,13 @@ A Two Stage OPAMP consists of three parts - A differential Amplifier, Voltage Am
  
   ![non_Inverting_amp_tb](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/non_inverting_amp_tb.png)
  
-- ### Inverting Amplifier
+- ## Inverting Amplifier
 
   ### Inverting Amplifiers are the same except Vin+ and Vin- are switched, as the Figure below shows
 
   ![inverting_amp](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/inverting_amp_sch.png)
   
-- ### Summing Amplifier
+- ## Summing Amplifier
 
   ![Summingamp](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/summing_amp.png)
 
@@ -87,7 +87,7 @@ A Two Stage OPAMP consists of three parts - A differential Amplifier, Voltage Am
 
   ![summingamp_tb](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/summing_amp_tb.png)
 
-- ### Comparator
+- ## Comparator
   
  ![comparator](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/comparator.png)
 
@@ -104,6 +104,7 @@ A Two Stage OPAMP consists of three parts - A differential Amplifier, Voltage Am
   
   ![txgate](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/tx_gate.png)
 
+  ### Simulation
   ![txgatetb](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/tx_gate_tb.png)
 
   ![txgatetbres](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/tx_gate_tb_res.png)
@@ -112,6 +113,7 @@ A Two Stage OPAMP consists of three parts - A differential Amplifier, Voltage Am
 
   ![38decoder](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/3_8_decoder.png)
 
+  ### Simulation
   ![38decodertb](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/3_8_decoder_tb.png)
 
   ![decodertb](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/decoder_tb.png)
@@ -132,6 +134,7 @@ A Two Stage OPAMP consists of three parts - A differential Amplifier, Voltage Am
 
 ![resstrings](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/res_string_dac.png)
 
+### Simulation
 ![resstringtbsch](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/res_string_dac_tb_sch.png)
 
 ![resstringtb](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/res_string_dac_tb.png)
@@ -142,6 +145,7 @@ A Two Stage OPAMP consists of three parts - A differential Amplifier, Voltage Am
 
 ![R2R](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/r2rdac.png)
 
+### Simulation
 ![R2R_tb](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/r2rdac_tb.png)
 
 ### Charge Scaling DAC (8 bit)
@@ -150,6 +154,7 @@ A Two Stage OPAMP consists of three parts - A differential Amplifier, Voltage Am
 
 ![chargescallingdac](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/charge_scaling_dac.png)
 
+### Simulation
 ![chargescalingdac_tb](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/charge_scaling_dac_tb.png)
 
 ### Binary Weighted SR DAC
@@ -158,6 +163,7 @@ A Two Stage OPAMP consists of three parts - A differential Amplifier, Voltage Am
 
 ![binweightedrsdac](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/binwsr_dac.png)
 
+### Simulation
 ![binweightedrsdactb](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/binwsr_dac_tb.png)
 
 ![binweightedrsdactbres](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/binw_sr_dac_tb.png)
