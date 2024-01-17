@@ -107,6 +107,8 @@ OPAMP can act as
 
   ![38decodertb](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/3_8_decoder_tb.png)
 
+  ![decodertb](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/decoder_tb.png)
+
 - DFF
 
 - XOR and XNOR
