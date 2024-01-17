@@ -129,3 +129,9 @@ OPAMP can act as
 ### Resistor String DAC (8 bit)
 
 ![resstringsch](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/res_string_dac_sch.png)
+
+![resstrings](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/res_string_dac.png)
+
+![resstringtb](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/res_string_dac_tb.png)
+
+![resstringtbsch](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/res_string_dac_tb_sch.png)
