@@ -18,7 +18,7 @@ A Two Stage OPAMP consists of three parts - A differential Amplifier, Voltage Am
 
 ![amp](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/Picture.png)
 
-The Schematic is given as - 
+### The Schematic is given as - 
 
 ![2stageopamp](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/opamp.png)
 
@@ -27,33 +27,33 @@ The Schematic is given as -
 ![inverter](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/inverter.png)
 
 ### Logic gates
-2 Input NAND Gate 
+### 2 Input NAND Gate 
 
 ![2innand](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/2_in_nand.png)
 
-2 Input NOR Gate 
+### 2 Input NOR Gate 
 
 ![2innor](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/2_in_nor.png)
 
-2 Input AND Gate 
+### 2 Input AND Gate 
 
 ![2inand](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/2_in_and.png)
 
-2 Input OR Gate 
+### 2 Input OR Gate 
 
 ![2inor](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/2_in_or.png)
 
-3 Input AND Gate 
+### 3 Input AND Gate 
 
 ![3inand](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/3_in_and.png)
 
-3 Input OR Gate 
+### 3 Input OR Gate 
 
 ![3inor](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/3_in_or.png)
 
 ## OPAMP Applications
-OPAMP can act as 
-- Buffer (Non-Inverting Unity Gain OPAMP)
+### OPAMP can act as 
+- ### Buffer (Non-Inverting Unity Gain OPAMP)
 
   ![buffer_sch](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/buffer_sch.png)
 
@@ -158,6 +158,6 @@ OPAMP can act as
 
 ![binweightedrsdac](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/binwsr_dac.png)
 
-![binweightedrsdactb](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/binwsr_tb.png)
+![binweightedrsdactb](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/binwsr_dac_tb.png)
 
 ![binweightedrsdactbres](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/binw_sr_dac_tb.png)
