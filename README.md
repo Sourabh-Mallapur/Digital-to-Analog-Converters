@@ -138,7 +138,7 @@ OPAMP can act as
 
 ### R-2R DAC (8 bit)
 
-![R2Rsch](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/r2rdac_sch.png)
+![R2Rsch](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/r2r_sch.png)
 
 ![R2R](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/r2rdac.png)
 
@@ -146,7 +146,7 @@ OPAMP can act as
 
 ### Charge Scaling DAC (8 bit)
 
-![chargescallingdacsch](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/charge_scaling_dac-sch.png)
+![chargescallingdacsch](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/charge_scaling_dac_sch.png)
 
 ![chargescallingdac](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/charge_scaling_dac.png)
 
