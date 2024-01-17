@@ -154,4 +154,10 @@ OPAMP can act as
 
 ### Binary Weighted SR DAC
 
-![binweightedrsdacsch](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/bin_weighted_sr_dac_sch.png)
+![binweightedrsdacsch](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/bin_weighted_sr_dac.png)
+
+![binweightedrsdac](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/binwsr_dac.png)
+
+![binweightedrsdactb](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/binwsr_tb.png)
+
+![binweightedrsdactbres](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/binw_sr_dac_tb.png)
