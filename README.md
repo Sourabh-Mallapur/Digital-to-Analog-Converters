@@ -100,6 +100,12 @@ OPAMP can act as
   ![41mux](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/4_1_mux.png)
 
 - Transmission gate
+  
+  ![txgate](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/tx_gate.png)
+
+  ![txgatetb](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/tx_gate_tb.png)
+
+  ![txgatetbres](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/tx_gate_tb_res.png)
 
 - 3 to 8 Decoder
 
