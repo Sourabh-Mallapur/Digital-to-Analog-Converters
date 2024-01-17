@@ -125,3 +125,7 @@ OPAMP can act as
   These blocks are avaliable in the gpdk_090nm libraries
 
 ## DAC Designs
+
+### Resistor String DAC (8 bit)
+
+![resstringsch](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/res_string_dac_sch.png)
