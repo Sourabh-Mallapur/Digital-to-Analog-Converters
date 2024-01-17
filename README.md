@@ -117,6 +117,8 @@ OPAMP can act as
 
 - DFF
 
+  ![dff](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/dff.png)
+
 - XOR and XNOR
 
   These blocks are avaliable in the gpdk_090nm libraries
