@@ -90,13 +90,25 @@ OPAMP can act as
   
  ![comparator](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/comparator.png)
 
-##
+## Other Importnant blocks for DAC Design
 - 2:1 mux
+
+  ![21mux](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/2_1_mux.png)
+
 - 4:1 mux
+
+  ![41mux](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/4_1_mux.png)
+
 - Transmission gate
+
 - 3 to 8 Decoder
-- 8 to 3 encoder
-- 3 bit binary to thermometer decoder
+
+  ![38decoder](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/3_8_encoder.png)
+
 - DFF
+
 - XOR and XNOR
+
+  These blocks are avaliable in the gpdk_090nm libraries
+  
 - 3-bit counter
