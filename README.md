@@ -103,7 +103,9 @@ OPAMP can act as
 
 - 3 to 8 Decoder
 
-  ![38decoder](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/3_8_encoder.png)
+  ![38decoder](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/3_8_decoder.png)
+
+  ![38decodertb](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/3_8_decoder_tb.png)
 
 - DFF
 
