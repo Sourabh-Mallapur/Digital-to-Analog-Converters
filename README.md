@@ -5,7 +5,7 @@ This Repo contains Full-Custom Designs for various DACs. Design and Simulation d
 
 - [Introduction](#introduction)
 - [Designs](#designs)
-- [Opamp Applications](#opamp-applications)]
+- [Opamp Applications](#opamp-applications)
 - [DAC Designs](#dac-designs)
 
 ## Introduction
