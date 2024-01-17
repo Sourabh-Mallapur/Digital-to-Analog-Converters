@@ -5,7 +5,8 @@ This Repo contains Full-Custom Designs for various DACs. Design and Simulation d
 
 - [Introduction](#introduction)
 - [Designs](#designs)
-- [Opamp Applications](#opamp-applications)
+- [Opamp Applications](#opamp-applications)]
+- [DAC Designs](#dac-designs)
 
 ## Introduction
 
@@ -122,5 +123,5 @@ OPAMP can act as
 - XOR and XNOR
 
   These blocks are avaliable in the gpdk_090nm libraries
-  
-- 3-bit counter
+
+## DAC Designs
