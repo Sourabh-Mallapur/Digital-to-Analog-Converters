@@ -128,7 +128,7 @@ A Two Stage OPAMP consists of three parts - A differential Amplifier, Voltage Am
 
 ## DAC Designs
 
-### Resistor String DAC (8 bit)
+## Resistor String DAC (8 bit)
 
 ![resstrin6dacgsch](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/res_string_dac_sch.png)
 
@@ -139,7 +139,7 @@ A Two Stage OPAMP consists of three parts - A differential Amplifier, Voltage Am
 
 ![resstringtb](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/res_string_dac_tb.png)
 
-### R-2R DAC (8 bit)
+## R-2R DAC (8 bit)
 
 ![R2Rsch](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/r2r_sch.png)
 
@@ -148,7 +148,7 @@ A Two Stage OPAMP consists of three parts - A differential Amplifier, Voltage Am
 ### Simulation
 ![R2R_tb](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/r2rdac_tb.png)
 
-### Charge Scaling DAC (8 bit)
+## Charge Scaling DAC (8 bit)
 
 ![chargescallingdacsch](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/charge_scaling_dac_sch.png)
 
@@ -157,7 +157,7 @@ A Two Stage OPAMP consists of three parts - A differential Amplifier, Voltage Am
 ### Simulation
 ![chargescalingdac_tb](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/charge_scaling_dac_tb.png)
 
-### Binary Weighted SR DAC
+## Binary Weighted SR DAC
 
 ![binweightedrsdacsch](https://github.com/Sourabh-Mallapur/Digital-to-Analog-Converters/blob/main/assests/bin_weighted_sr_dac.png)
 
